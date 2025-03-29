@@ -1,0 +1,12 @@
+{
+    "keys": [
+        {
+            "kty": "RSA",
+            "kid": "huetien",
+            "use": "sig",
+            "alg": "RS256",
+            "n": "1VCfIRBQvVqsfU2Fu-Dv252xZbnuViq3V3cyIUVtO_VXHOBLxoBhsLXZ-wjct2ngs8UoEp_gUD2VRHZnrCsEl23jOX-FuFiyzeXwSZ0h0Du5WiieT9Z110FsZPIvTOZIPLMcNSEEQBePBOA3UesDyEK9HKbVvAHPI0kITNn3V9iOYIU5AmYkOSGoqdc3Sf2-445xGTLgA-0tPF8kI-0I10KRVrJZpMidEn9RT8z5H5tzhWvHaYfoTr_bcL8mZgvz8QVSl0i8LWn2VzmLZ6JRGdwLSnO8HK0FOsUZnoDcePEN8Nx5PBY7Nmz2R44F9KLqXzcYs7G3JM7vNWkG7B7hXQ",
+            "e": "AQAB"
+        }
+    ]
+}
